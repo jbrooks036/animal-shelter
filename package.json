@@ -1,0 +1,29 @@
+{
+  "name": "animal-shelter",
+  "version": "0.0.0",
+  "description": "object-oriented animal shelter",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbrooks036/animal-shelter"
+  },
+  "author": "JoAnn Brooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbrooks036/animal-shelter/issues"
+  },
+  "homepage": "https://github.com/jbrooks036/animal-shelter",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
